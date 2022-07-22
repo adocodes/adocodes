@@ -1,2 +1,2 @@
-https://adocodes.github.io/andrewado/
+https://adocodes.github.io/adocodes/
 portfolio
